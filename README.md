@@ -1,4 +1,4 @@
-<img src="CEH-PRACTICAL-9-7-2022 (1).png" />  
+ 
                                                                                                                           
 # Reconnasiance/Footprinting
 <details>
@@ -459,5 +459,3 @@ Add GIF98 and upload and rename .php.jgp
 </details>
   
   
-  ### CEH Practical Questions:
-  Contact Me📨: sendmehi@outlook.com
